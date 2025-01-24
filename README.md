@@ -1,4 +1,4 @@
-- Hi, I'm James, aka BussinDev
+- Ajeyo Chatterjee, 11. I dream in HTML
 - I like to create awesome stuff with Python, JS, Java.
 - I also do web coding, but mostly do the above languages.
 - Contact me on Discord: @jamiedacoolone
