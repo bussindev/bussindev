@@ -1,4 +1,4 @@
 - Ajeyo Chatterjee, 11. I dream in HTML
-- I like to create awesome stuff with Python, JS, Java.
+- I like to create awesome stuff with Python, JS.
 - I also do web coding, but mostly do the above languages.
 - Contact me on Discord: @jamiedacoolone
